@@ -1,0 +1,5 @@
+module.exports = [
+    { username: 'admin1', password:'test123'},
+    { username: 'fmachado1', password:'Abc123'}
+]
+

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//title[normalize-space() = \"Dashboard\"]"
+}

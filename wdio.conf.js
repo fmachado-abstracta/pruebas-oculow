@@ -21,7 +21,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/**/*.js'
+        './tests/**/*.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -225,13 +225,14 @@ exports.config = {
     // },
     /**
      * Function to be executed after a test (in Mocha/Jasmine).
-     */
+    */
+   /*     
     async afterTest: function(test, context, { error, result, duration, passed, retries }) {
         if (!passed) {
             await browser.takeScreenshot();
         }
     },
-
+*/
 
     /**
      * Hook that gets executed after the suite has ended

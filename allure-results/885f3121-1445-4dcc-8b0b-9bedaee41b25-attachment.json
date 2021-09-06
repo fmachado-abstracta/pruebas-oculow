@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[title=Dashboard]\"}\n  (Session info: chrome=92.0.4515.159)",
+  "stacktrace": "#0 0x559ed2ea1a63 <unknown>\n#1 0x559ed2c16458 <unknown>\n#2 0x559ed2c4bca5 <unknown>\n#3 0x559ed2c7e534 <unknown>\n#4 0x559ed2c6910d <unknown>\n#5 0x559ed2c7c23c <unknown>\n#6 0x559ed2c68fd3 <unknown>\n#7 0x559ed2c3f514 <unknown>\n#8 0x559ed2c40505 <unknown>\n#9 0x559ed2ecde2e <unknown>\n#10 0x559ed2ee3886 <unknown>\n#11 0x559ed2eced75 <unknown>\n#12 0x559ed2ee4d94 <unknown>\n#13 0x559ed2ec58eb <unknown>\n#14 0x559ed2effcd8 <unknown>\n#15 0x559ed2effe58 <unknown>\n#16 0x559ed2f19dfd <unknown>\n#17 0x7ff34df6b609 start_thread\n"
+}

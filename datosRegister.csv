@@ -1,0 +1,6 @@
+module.exports = [
+    { name: 'Felipe1', lastname:'Machado1', username: 'fmachado1', email: 'fmachado1@abs.com.uy', password: 'Abc123'},
+    { name: 'Felipe2', lastname:'Machado2', username: 'fmachado2', email: 'fmachado2@abs.com.uy', password: 'Abc123'},
+    { name: 'Felipe3', lastname:'Machado3', username: 'fmachado3', email: 'fmachado3@abs.com.uy', password: 'Abc123'}
+]
+

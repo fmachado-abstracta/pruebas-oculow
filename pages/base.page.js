@@ -34,4 +34,12 @@ export default class BasePage {
         await elemento.keys(texto);
     }
 
+    /**
+    * Devuelve el texto del titulo de la pagina MyAccount
+    */
+    async devolverTituloPagina(){
+        return await browser.getTitle();
+    }
+
+
 }

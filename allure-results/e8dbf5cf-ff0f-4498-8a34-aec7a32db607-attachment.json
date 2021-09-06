@@ -1,0 +1,82 @@
+{
+  "actions": [
+    {
+      "type": "key",
+      "id": "keyboard",
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "3"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "3"
+        }
+      ]
+    }
+  ]
+}
