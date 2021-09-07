@@ -25,7 +25,6 @@ class RegisterPage extends BasePage{
         await this.vaciarCampoYEnviarTexto(await this.campoConfirmPassword,confpassword);
         await this.clickearElemento(await this.btnPrivacyPolicy);
         await this.clickearElemento(await this.btnSubmit);
-       
     }
     
 }

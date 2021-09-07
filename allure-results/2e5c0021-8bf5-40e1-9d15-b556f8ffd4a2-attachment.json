@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "type": "key",
+      "id": "keyboard",
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "@"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "b"
+        },
+        {
+          "type": "keyDown",
+          "value": "s"
+        },
+        {
+          "type": "keyDown",
+          "value": "."
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "@"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "b"
+        },
+        {
+          "type": "keyUp",
+          "value": "s"
+        },
+        {
+          "type": "keyUp",
+          "value": "."
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        }
+      ]
+    }
+  ]
+}
