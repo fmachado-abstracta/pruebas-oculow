@@ -17,9 +17,9 @@ describe('registroCP11-12', () =>{
             
             await browser.pause(15000);
             
-            /*Compruebo que se creó el usuario si estoy en página Login
+            /*Compruebo que NO se creó el usuario si me mantengo estoy en página Login
             */            
-            await expect(await HomePage.devolverTituloPagina()).to.equal('Sign-In');
+            await expect(await HomePage.devolverTituloPagina()).to.equal('Sign-Up');
             
          });
      });

@@ -11,7 +11,7 @@ export default class BasePage {
         await browser.url(`${ruta}`);
     }
  
- 
+
     /**
      * Esperar a que un elemento sea clickeable y hacer click
      * @param {Object} elemento a clickear
@@ -35,7 +35,7 @@ export default class BasePage {
     }
 
     /**
-    * Devuelve el texto del titulo de la pagina MyAccount
+    * Devuelve el texto del titulo de la pagina 
     */
     async devolverTituloPagina(){
         return await browser.getTitle();

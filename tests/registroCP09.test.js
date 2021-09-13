@@ -15,7 +15,7 @@ describe('registroCP09', () =>{
             //Registro el usuario
             await HomePage.registerAccount(name,lastname,username,email,password,password);
              
-            /*Compruebo que NO se creó el usuario si estoy en página Login
+            /*Compruebo que NO se creó el usuario si me mantengo en página Login
             */            
             await expect(await HomePage.devolverTituloPagina()).to.equal('Sign-Up');
             

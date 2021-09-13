@@ -1,0 +1,410 @@
+{
+  "actions": [
+    {
+      "type": "key",
+      "id": "keyboard",
+      "actions": [
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "A"
+        },
+        {
+          "type": "keyDown",
+          "value": "B"
+        },
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "A"
+        },
+        {
+          "type": "keyDown",
+          "value": "B"
+        },
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "A"
+        },
+        {
+          "type": "keyDown",
+          "value": "B"
+        },
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "A"
+        },
+        {
+          "type": "keyDown",
+          "value": "B"
+        },
+        {
+          "type": "keyDown",
+          "value": "f"
+        },
+        {
+          "type": "keyDown",
+          "value": "m"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "c"
+        },
+        {
+          "type": "keyDown",
+          "value": "h"
+        },
+        {
+          "type": "keyDown",
+          "value": "a"
+        },
+        {
+          "type": "keyDown",
+          "value": "d"
+        },
+        {
+          "type": "keyDown",
+          "value": "o"
+        },
+        {
+          "type": "keyDown",
+          "value": "0"
+        },
+        {
+          "type": "keyDown",
+          "value": "8"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "A"
+        },
+        {
+          "type": "keyUp",
+          "value": "B"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "A"
+        },
+        {
+          "type": "keyUp",
+          "value": "B"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "A"
+        },
+        {
+          "type": "keyUp",
+          "value": "B"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "A"
+        },
+        {
+          "type": "keyUp",
+          "value": "B"
+        },
+        {
+          "type": "keyUp",
+          "value": "f"
+        },
+        {
+          "type": "keyUp",
+          "value": "m"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "c"
+        },
+        {
+          "type": "keyUp",
+          "value": "h"
+        },
+        {
+          "type": "keyUp",
+          "value": "a"
+        },
+        {
+          "type": "keyUp",
+          "value": "d"
+        },
+        {
+          "type": "keyUp",
+          "value": "o"
+        },
+        {
+          "type": "keyUp",
+          "value": "0"
+        },
+        {
+          "type": "keyUp",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}
